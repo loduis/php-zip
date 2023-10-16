@@ -1,0 +1,16 @@
+{
+    "name": "loduis/zip",
+    "authors": [
+        {
+            "name": "Loduis Madariaga",
+            "email": "loduis@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zip\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
